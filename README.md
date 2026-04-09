@@ -5,6 +5,6 @@ This repository contains samples of photos and 3D objects for use in our ECE493 
 Shoe Photos (.JPG): Isaac V.
 
 # Sources - 3D Models:
-Airplane 3D model (.OBJ): printable_models, URL: https://free3d.com/3d-model/airplane-v1--79106.html 
-Rocket 3D model (.STL): Spannerhands, URL: https://www.ameede.net/simple-spannerhands-rocket-h007328-file-stl-free-download-3d-model-for-cnc-and-3d-printer/
-Car 3D model (.STL): SimFlow, URL: https://help.sim-flow.com/tutorials/car 
+- Airplane 3D model (.STL): LanzDesign, URL: https://www.printables.com/model/436496-vaseplane-vase-mode-glider/files
+- Car 3D model (.STL): SimFlow, URL: https://help.sim-flow.com/tutorials/car 
+- Rocket 3D model (.STL): Spannerhands, URL: https://www.ameede.net/simple-spannerhands-rocket-h007328-file-stl-free-download-3d-model-for-cnc-and-3d-printer/
